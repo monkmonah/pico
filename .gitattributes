@@ -1,4 +1,5 @@
-# Set the default behavior, in case people don't have core.autocrlf set. More information on https://help.github.com/articles/dealing-with-line-endings/
+# Set the default behavior, in case people don't have core.autocrlf set. 
+# More information on https://help.github.com/articles/dealing-with-line-endings/
 *.java text eol=lf
 *.yaml text eol=lf
 # Web
